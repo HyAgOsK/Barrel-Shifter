@@ -1,4 +1,4 @@
-﻿# Crossbar Switch NxN
+﻿# Crosspoint NxN - Trabalho Orientado I
 
 ## Topology overview
 
@@ -164,4 +164,5 @@ Parâmetro derivado:
 
 - O hardware deve monitorar os seletores em tempo real.
 - Colisão é definida apenas entre saídas habilitadas.
+
 
