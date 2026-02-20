@@ -2,6 +2,7 @@
 
 ## Topology overview
 
+``` text
 Control Domain
      Zone
 
@@ -25,6 +26,7 @@ in_data[N][W]--------------|--------------------------------> | crossbar_nxn    
                 |                                             | + enable/zero    |  |
                 |                                             +------------------+  |
                 +-------------------------------------------------------------------+
+```
 
 ## 1. Considerações
 
@@ -162,3 +164,4 @@ Parâmetro derivado:
 
 - O hardware deve monitorar os seletores em tempo real.
 - Colisão é definida apenas entre saídas habilitadas.
+
